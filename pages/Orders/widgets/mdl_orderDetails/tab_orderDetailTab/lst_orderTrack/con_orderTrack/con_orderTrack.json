@@ -1,0 +1,102 @@
+{
+    "boxShadow": "none",
+    "widgetName": "con_orderTrack",
+    "borderColor": "transparent",
+    "disallowCopy": true,
+    "isCanvas": true,
+    "displayName": "Container",
+    "iconSVG": "/static/media/icon.1977dca3370505e2db3a8e44cfd54907.svg",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "topRow": 0,
+    "bottomRow": 13,
+    "dragDisabled": true,
+    "type": "CONTAINER_WIDGET",
+    "hideCard": false,
+    "shouldScrollContents": false,
+    "isDeletable": false,
+    "animateLoading": true,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
+    "children": [{
+        "widgetName": "Canvas17",
+        "displayName": "Canvas",
+        "topRow": 0,
+        "bottomRow": 112.00000000000001,
+        "parentRowSpace": 1,
+        "type": "CANVAS_WIDGET",
+        "canExtend": false,
+        "hideCard": true,
+        "minHeight": 120,
+        "useAutoLayout": true,
+        "parentColumnSpace": 1,
+        "leftColumn": 0,
+        "dynamicBindingPathList": [],
+        "positioning": "vertical",
+        "key": "0vt5wmmb5q",
+        "isDeprecated": false,
+        "detachFromLayout": true,
+        "widgetId": "n547qmo36y",
+        "containerStyle": "none",
+        "minWidth": 450,
+        "isVisible": true,
+        "version": 1,
+        "parentId": "wooagzbs46",
+        "renderMode": "CANVAS",
+        "isLoading": false,
+        "responsiveBehavior": "fill",
+        "flexLayers": [
+            {"children": [
+                {
+                    "id": "dxqz94aveu",
+                    "align": "center"
+                },
+                {
+                    "id": "9ooohxq7dj",
+                    "align": "center"
+                },
+                {
+                    "id": "rd8t82sdmw",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "m36p1oqrow",
+                    "align": "center"
+                },
+                {
+                    "id": "c9ylliwegp",
+                    "align": "center"
+                }
+            ]}
+        ]
+    }],
+    "borderWidth": "",
+    "positioning": "fixed",
+    "key": "5b6zuvoi1x",
+    "backgroundColor": "transparent",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "dynamicHeight": "FIXED",
+    "isFlexChild": true,
+    "widgetId": "wooagzbs46",
+    "containerStyle": "card",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "isListItemContainer": true,
+    "parentId": "4rknlmadkl",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "noContainerOffset": true,
+    "disabledWidgetFeatures": ["dynamicHeight"],
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 10
+}

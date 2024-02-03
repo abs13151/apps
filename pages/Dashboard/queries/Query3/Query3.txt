@@ -1,0 +1,3 @@
+update a set LastName = {{Input5.text}} where PersonID = {{Input5.text}};
+SELECT * FROM a WHERE PersonID = {{Input5.text}};
+select * from a where PersonID = {{Input5.text}};
