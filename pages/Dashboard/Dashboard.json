@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 1756.0000000000002,
+          "bottomRow": 1834.0000000000005,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
@@ -33,6 +33,14 @@
               "children": [
                 {
                   "id": "w5qu26ble1",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "3ds226015v",
                   "align": "start"
                 }
               ]
