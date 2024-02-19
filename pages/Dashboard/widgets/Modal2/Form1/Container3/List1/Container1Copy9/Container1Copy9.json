@@ -12,7 +12,7 @@
         "group"
     ],
     "topRow": 0,
-    "bottomRow": 12,
+    "bottomRow": 10,
     "dragDisabled": true,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -32,7 +32,7 @@
         "displayName": "Canvas",
         "widgetId": "mieuchqnxt",
         "topRow": 0,
-        "bottomRow": 120,
+        "bottomRow": 100,
         "containerStyle": "none",
         "parentRowSpace": 1,
         "isVisible": true,

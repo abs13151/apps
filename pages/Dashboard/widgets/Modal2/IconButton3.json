@@ -14,7 +14,7 @@
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
     "animateLoading": true,
-    "leftColumn": 58,
+    "leftColumn": 60.89320388349515,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}

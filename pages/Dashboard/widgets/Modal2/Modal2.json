@@ -12,7 +12,7 @@
         "notification"
     ],
     "topRow": 80.00000000000001,
-    "bottomRow": 175.40000000000003,
+    "bottomRow": 163.60000000000002,
     "parentRowSpace": 10,
     "type": "MODAL_WIDGET",
     "hideCard": false,
@@ -25,7 +25,7 @@
         "widgetName": "Canvas4",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 950,
+        "bottomRow": 836.0000000000001,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": true,
@@ -77,7 +77,7 @@
         ]
     }],
     "key": "mwzog1lx62",
-    "height": 956.0000000000002,
+    "height": 838.0000000000001,
     "isDeprecated": false,
     "rightColumn": 33,
     "detachFromLayout": true,
