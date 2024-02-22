@@ -22,7 +22,7 @@
         {"key": "fontFamily"},
         {"key": "borderRadius"}
     ],
-    "leftColumn": 35.92638036809816,
+    "leftColumn": 36.18802486639764,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "{{currentItem.Status}}",

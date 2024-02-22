@@ -27,7 +27,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "alignment": "start",
-    "mobileBottomRow": 60.6,
+    "mobileBottomRow": 6.600000000000001,
     "widgetName": "Input5",
     "displayName": "Input",
     "searchTags": [
@@ -53,7 +53,7 @@
     "parentId": "0",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
-    "mobileTopRow": 54,
+    "mobileTopRow": 0,
     "responsiveBehavior": "fill",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,

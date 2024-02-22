@@ -1,6 +1,7 @@
 {
     "resetFormOnClick": false,
     "boxShadow": "none",
+    "mobileBottomRow": 110.6,
     "widgetName": "Button2",
     "onClick": "{{closeModal('Modal2')}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -14,6 +15,7 @@
     "bottomRow": 81.60000000000001,
     "type": "BUTTON_WIDGET",
     "hideCard": false,
+    "mobileRightColumn": 39.161707632600255,
     "animateLoading": true,
     "leftColumn": 45.35922330097087,
     "dynamicBindingPathList": [
@@ -36,9 +38,11 @@
     "parentId": "js3rgqwtld",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 106.6,
     "responsiveBehavior": "hug",
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 14.32341526520051,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER",
     "alignment": "end"

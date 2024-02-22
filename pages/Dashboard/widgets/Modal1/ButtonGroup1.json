@@ -1,5 +1,6 @@
 {
     "boxShadow": "none",
+    "mobileBottomRow": 87.6,
     "widgetName": "ButtonGroup1",
     "isCanvas": false,
     "displayName": "Button Group",
@@ -42,6 +43,7 @@
     },
     "type": "BUTTON_GROUP_WIDGET",
     "hideCard": false,
+    "mobileRightColumn": 64,
     "animateLoading": true,
     "parentColumnSpace": 11.71875,
     "dynamicTriggerPathList": [],
@@ -59,10 +61,12 @@
     "parentId": "u2cdf1egsd",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 83.6,
     "childStylesheet": {"button": {"buttonColor": "{{appsmith.theme.colors.primaryColor}}"}},
     "originalTopRow": 57,
     "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 0,
     "originalBottomRow": 63,
     "buttonVariant": "PRIMARY",
     "alignment": "center"

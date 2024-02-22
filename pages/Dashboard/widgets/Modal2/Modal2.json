@@ -1,6 +1,7 @@
 {
     "mobileWidthInPercentage": 0.0310546875,
     "boxShadow": "none",
+    "mobileBottomRow": 248.6,
     "widgetName": "Modal2",
     "widthInPercentage": 0.0310546875,
     "isCanvas": true,
@@ -17,15 +18,17 @@
     "type": "MODAL_WIDGET",
     "hideCard": false,
     "shouldScrollContents": true,
+    "mobileRightColumn": 33,
     "animateLoading": true,
     "parentColumnSpace": 19.8125,
     "leftColumn": 31,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "children": [{
+        "mobileBottomRow": 1126,
         "widgetName": "Canvas4",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 830,
+        "bottomRow": 836.0000000000001,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": true,
@@ -48,6 +51,7 @@
         "parentId": "spnww9h4r0",
         "renderMode": "CANVAS",
         "isLoading": false,
+        "mobileTopRow": 0,
         "responsiveBehavior": "fill",
         "flexLayers": [
             {"children": [
@@ -89,8 +93,10 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 136,
     "responsiveBehavior": "hug",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 31,
     "maxDynamicHeight": 9000,
     "width": 834,
     "minDynamicHeight": 8

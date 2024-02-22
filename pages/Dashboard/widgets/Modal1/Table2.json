@@ -61,6 +61,7 @@
     "columnUpdatedAt": 1677234412345,
     "defaultSelectedRowIndices": [0],
     "alignment": "center",
+    "mobileBottomRow": 82.8,
     "widgetName": "Table2",
     "defaultPageSize": 0,
     "columnOrder": [
@@ -83,6 +84,7 @@
     },
     "parentRowSpace": 10,
     "hideCard": false,
+    "mobileRightColumn": 64,
     "parentColumnSpace": 11.71875,
     "dynamicTriggerPathList": [],
     "borderWidth": "1",
@@ -333,10 +335,12 @@
     "searchKey": "",
     "parentId": "u2cdf1egsd",
     "renderMode": "CANVAS",
+    "mobileTopRow": 52.8,
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
     "originalTopRow": 26,
     "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
 }

@@ -2,7 +2,7 @@
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "isVisibleDownload": true,
     "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-    "topRow": 10.4,
+    "topRow": 13.400000000000002,
     "isSortable": true,
     "onPageChange": "{{utils.getOrders()}}",
     "type": "TABLE_WIDGET_V2",
@@ -106,7 +106,7 @@
     ],
     "compactMode": "TALL",
     "displayName": "Table",
-    "bottomRow": 100.4,
+    "bottomRow": 103.4,
     "columnWidthMap": {
         "Status": 136,
         "Order_id": 107,
