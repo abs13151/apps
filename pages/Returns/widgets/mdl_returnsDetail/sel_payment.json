@@ -25,6 +25,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "alignment": "center",
+    "mobileBottomRow": 65.6,
     "widgetName": "sel_payment",
     "isFilterable": false,
     "dynamicPropertyPathList": [{"key": "sourceData"}],
@@ -33,6 +34,7 @@
     "bottomRow": 37.599999999999994,
     "parentRowSpace": 10,
     "hideCard": false,
+    "mobileRightColumn": 64,
     "parentColumnSpace": 18.8125,
     "dynamicTriggerPathList": [],
     "labelPosition": "Top",
@@ -48,8 +50,10 @@
     "parentId": "e13haxrlld",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
+    "mobileTopRow": 57.599999999999994,
     "optionLabel": "label",
     "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 4
 }

@@ -1,6 +1,7 @@
 {
     "resetFormOnClick": false,
     "boxShadow": "none",
+    "mobileBottomRow": 107.99999999999999,
     "widgetName": "btn_refund",
     "onClick": "{{utils.handleRefund()}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -15,6 +16,7 @@
     "bottomRow": 81.2,
     "type": "BUTTON_WIDGET",
     "hideCard": false,
+    "mobileRightColumn": 64,
     "animateLoading": true,
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 50,
@@ -39,9 +41,11 @@
     "parentId": "e13haxrlld",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 102.99999999999999,
     "responsiveBehavior": "hug",
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 39.75757575757576,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER",
     "alignment": "end"

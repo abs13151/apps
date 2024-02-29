@@ -27,6 +27,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "alignment": "center",
+    "mobileBottomRow": 56.8,
     "widgetName": "sel_warehouse",
     "isFilterable": false,
     "dynamicPropertyPathList": [{"key": "sourceData"}],
@@ -35,6 +36,7 @@
     "bottomRow": 37.599999999999994,
     "parentRowSpace": 10,
     "hideCard": false,
+    "mobileRightColumn": 64,
     "parentColumnSpace": 18.8125,
     "dynamicTriggerPathList": [],
     "labelPosition": "Top",
@@ -50,8 +52,10 @@
     "parentId": "e13haxrlld",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
+    "mobileTopRow": 48.8,
     "optionLabel": "label",
     "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 4
 }

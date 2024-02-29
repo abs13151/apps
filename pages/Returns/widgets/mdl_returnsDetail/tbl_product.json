@@ -57,6 +57,7 @@
     "columnUpdatedAt": 1682327314960,
     "defaultSelectedRowIndices": [0],
     "alignment": "center",
+    "mobileBottomRow": 102.19999999999999,
     "widgetName": "tbl_product",
     "defaultPageSize": 0,
     "columnOrder": [
@@ -80,6 +81,7 @@
     },
     "parentRowSpace": 10,
     "hideCard": false,
+    "mobileRightColumn": 64,
     "parentColumnSpace": 16.375,
     "dynamicTriggerPathList": [],
     "borderWidth": "1",
@@ -215,9 +217,11 @@
     "parentId": "e13haxrlld",
     "serverSidePaginationEnabled": false,
     "renderMode": "CANVAS",
+    "mobileTopRow": 72.19999999999999,
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": false,
     "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
     "isVisiblePagination": false,
     "verticalAlignment": "CENTER"
 }

@@ -1,5 +1,6 @@
 {
     "boxShadow": "none",
+    "mobileBottomRow": 8.8,
     "widgetName": "icn_closeReturnsModal",
     "onClick": "{{closeModal('mdl_returnsDetail')\nresetWidget('tbl_returns')\n}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -14,6 +15,7 @@
     "bottomRow": 4,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
+    "mobileRightColumn": 64,
     "animateLoading": true,
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 60,
@@ -35,8 +37,10 @@
     "parentId": "e13haxrlld",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 4.8,
     "responsiveBehavior": "hug",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 55.91919191919192,
     "buttonVariant": "TERTIARY",
     "alignment": "end"
 }
