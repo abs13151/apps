@@ -1,5 +1,6 @@
 {
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 12,
     "widgetName": "con_productItem",
     "borderColor": "#E0DEDE",
     "disallowCopy": true,
@@ -18,6 +19,7 @@
     "hideCard": false,
     "shouldScrollContents": false,
     "isDeletable": false,
+    "mobileRightColumn": 64,
     "animateLoading": true,
     "leftColumn": 0,
     "dynamicBindingPathList": [
@@ -28,7 +30,7 @@
         "widgetName": "Canvas12",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 142,
+        "bottomRow": 162,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -99,10 +101,12 @@
     "parentId": "yq02s3tibi",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 0,
     "responsiveBehavior": "fill",
     "noContainerOffset": true,
     "disabledWidgetFeatures": ["dynamicHeight"],
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 10
 }

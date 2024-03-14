@@ -71,6 +71,7 @@
         "metaWidgetId"
     ],
     "alignment": "center",
+    "mobileBottomRow": 65.8,
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "lst_orderProducts",
@@ -81,6 +82,7 @@
     "parentRowSpace": 10,
     "hideCard": false,
     "templateBottomRow": 16,
+    "mobileRightColumn": 64,
     "mainContainerId": "0bf4ygh7dj",
     "primaryKeys": "{{lst_orderProducts.listData.map((currentItem, currentIndex) => currentItem[\"Id\"] )}}",
     "parentColumnSpace": 15.65234375,
@@ -96,7 +98,9 @@
     "minWidth": 450,
     "parentId": "i4qu0q934m",
     "renderMode": "CANVAS",
+    "mobileTopRow": 4.8,
     "responsiveBehavior": "fill",
     "originalTopRow": 6,
+    "mobileLeftColumn": 0,
     "selectedItemView": "{{{}}}"
 }

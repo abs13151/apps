@@ -1,6 +1,7 @@
 {
     "mobileWidthInPercentage": 0.37265625,
     "boxShadow": "none",
+    "mobileBottomRow": 377.4,
     "widgetName": "mdl_printPdf",
     "widthInPercentage": 0.37265625,
     "isCanvas": true,
@@ -11,18 +12,20 @@
         "popup",
         "notification"
     ],
-    "topRow": 190.2,
-    "bottomRow": 295.4,
+    "topRow": 189.40000000000003,
+    "bottomRow": 294.6,
     "parentRowSpace": 10,
     "type": "MODAL_WIDGET",
     "hideCard": false,
     "shouldScrollContents": true,
+    "mobileRightColumn": 44,
     "animateLoading": true,
     "parentColumnSpace": 16.21875,
     "dynamicTriggerPathList": [{"key": "onClose"}],
     "leftColumn": 20,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "children": [{
+        "mobileBottomRow": 1096,
         "widgetName": "Canvas18",
         "displayName": "Canvas",
         "topRow": 0,
@@ -50,6 +53,7 @@
         "parentId": "mu6zvl51ro",
         "renderMode": "CANVAS",
         "isLoading": false,
+        "mobileTopRow": 0,
         "responsiveBehavior": "fill",
         "flexLayers": [
             {"children": [
@@ -81,9 +85,11 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 267.8,
     "onClose": "{{showModal('mdl_orderDetails');}}",
     "responsiveBehavior": "hug",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 20,
     "maxDynamicHeight": 9000,
     "width": 874,
     "minDynamicHeight": 8

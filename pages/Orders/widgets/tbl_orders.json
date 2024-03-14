@@ -77,6 +77,7 @@
     "primaryColumnId": "Order_id",
     "defaultSelectedRowIndices": [0],
     "alignment": "start",
+    "mobileBottomRow": 122.2,
     "widgetName": "tbl_orders",
     "defaultPageSize": 0,
     "columnOrder": [
@@ -124,6 +125,7 @@
     "parentRowSpace": 10,
     "hideCard": false,
     "onPageSizeChange": "{{utils.getOrders()}}",
+    "mobileRightColumn": 64,
     "parentColumnSpace": 18.1875,
     "dynamicTriggerPathList": [
         {"key": "onRowSelected"},
@@ -701,10 +703,12 @@
     "parentId": "0",
     "serverSidePaginationEnabled": true,
     "renderMode": "CANVAS",
+    "mobileTopRow": 32.2,
     "horizontalAlignment": "CENTER",
     "isVisibleSearch": true,
     "originalTopRow": 18,
     "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
 }

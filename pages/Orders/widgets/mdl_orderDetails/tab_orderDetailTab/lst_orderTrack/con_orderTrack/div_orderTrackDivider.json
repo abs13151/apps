@@ -1,4 +1,5 @@
 {
+    "mobileBottomRow": 23.200000000000003,
     "widgetName": "div_orderTrackDivider",
     "thickness": 2,
     "displayName": "Divider",
@@ -10,10 +11,11 @@
     "type": "DIVIDER_WIDGET",
     "capType": "nc",
     "hideCard": false,
+    "mobileRightColumn": 64,
     "animateLoading": true,
     "parentColumnSpace": 8.885650634765625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 25.128149198385863,
+    "leftColumn": 23.558282208588952,
     "dynamicBindingPathList": [],
     "key": "nbke4zx7rc",
     "flexVerticalAlignment": "end",
@@ -21,7 +23,7 @@
     "orientation": "vertical",
     "strokeStyle": "dotted",
     "isDeprecated": false,
-    "rightColumn": 83.76049732795286,
+    "rightColumn": 78.52760736196318,
     "dynamicHeight": "FIXED",
     "widgetId": "c9ylliwegp",
     "capSide": 0,
@@ -31,6 +33,8 @@
     "parentId": "n547qmo36y",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 19.200000000000003,
     "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
     "alignment": "center"
 }

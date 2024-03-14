@@ -1,5 +1,6 @@
 {
     "boxShadow": "none",
+    "mobileBottomRow": 8.8,
     "widgetName": "icn_orderTrackIcon",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Icon Button",
@@ -13,10 +14,11 @@
     "parentRowSpace": 10,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
+    "mobileRightColumn": 47.718379042161274,
     "animateLoading": true,
     "parentColumnSpace": 8.885650634765625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 27.811975133602356,
+    "leftColumn": 27.81197513360236,
     "dynamicBindingPathList": [{"key": "buttonColor"}],
     "isDisabled": false,
     "key": "gmubxbwkm4",
@@ -32,8 +34,10 @@
     "parentId": "n547qmo36y",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 4.8,
     "responsiveBehavior": "hug",
     "borderRadius": "1.5rem",
+    "mobileLeftColumn": 16.281620957838726,
     "buttonVariant": "SECONDARY",
     "alignment": "center"
 }

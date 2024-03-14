@@ -3,7 +3,7 @@
     "borderColor": "#E0DEDE",
     "isVisibleDownload": false,
     "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-    "topRow": 27,
+    "topRow": 26,
     "isSortable": false,
     "type": "TABLE_WIDGET_V2",
     "inlineEditingSaveOption": "ROW_LEVEL",
@@ -63,6 +63,7 @@
     "originalBottomRow": 68,
     "defaultSelectedRowIndices": [0],
     "alignment": "center",
+    "mobileBottomRow": 115.79999999999998,
     "widgetName": "tbl_orderProducts",
     "defaultPageSize": 0,
     "columnOrder": [
@@ -78,7 +79,7 @@
     "dynamicPropertyPathList": [{"key": "tableData"}],
     "compactMode": "TALL",
     "displayName": "Table",
-    "bottomRow": 65,
+    "bottomRow": 64,
     "columnWidthMap": {
         "task": 245,
         "discount": 155,
@@ -91,6 +92,7 @@
     },
     "parentRowSpace": 10,
     "hideCard": false,
+    "mobileRightColumn": 64,
     "parentColumnSpace": 15.65234375,
     "dynamicTriggerPathList": [],
     "borderWidth": "1",
@@ -338,10 +340,12 @@
     "searchKey": "",
     "parentId": "r4f0j7nibv",
     "renderMode": "CANVAS",
+    "mobileTopRow": 77.79999999999998,
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": false,
     "responsiveBehavior": "fill",
     "originalTopRow": 30,
+    "mobileLeftColumn": 0,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
 }

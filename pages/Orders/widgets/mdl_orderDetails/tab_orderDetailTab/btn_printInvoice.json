@@ -1,6 +1,7 @@
 {
     "resetFormOnClick": false,
     "boxShadow": "none",
+    "mobileBottomRow": 24.200000000000003,
     "widgetName": "btn_printInvoice",
     "onClick": "{{\nutils.generateInvoice()\nshowModal('mdl_printPdf')\n}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -12,14 +13,15 @@
         "submit"
     ],
     "topRow": 0,
-    "bottomRow": 5,
+    "bottomRow": 4,
     "parentRowSpace": 10,
     "type": "BUTTON_WIDGET",
     "hideCard": false,
+    "mobileRightColumn": 44.140373063547266,
     "animateLoading": true,
     "parentColumnSpace": 15.7021484375,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 55,
+    "leftColumn": 56.68571428571428,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -39,9 +41,11 @@
     "parentId": "r4f0j7nibv",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "mobileTopRow": 19.200000000000003,
     "responsiveBehavior": "hug",
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 19.859626936452734,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER",
     "alignment": "center"
